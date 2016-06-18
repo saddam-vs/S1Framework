@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char S1FrameworkVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <S1Framework/PublicHeader.h>
 
 
+#import <S1Framework/Utility.h>
