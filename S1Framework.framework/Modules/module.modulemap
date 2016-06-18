@@ -1,0 +1,6 @@
+framework module S1Framework {
+  umbrella header "S1Framework.h"
+
+  export *
+  module * { export * }
+}
